@@ -1,19 +1,19 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'EduTrack'
+description: 'An E-Learning platform build on the youtube videos converting the passive learning into active learning.'
 image:
-    url: '/GitHub.webp'
+    url: '/image.jpg'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/image2.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/image3.png'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Nest js, Flask
+website: https://github.com/sainath944/Edutrack
+github: https://github.com/sainath944/Edutrack
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+EduTrack is an AI-driven learning platform that turns educational videos into interactive experiences. It uses Whisper for real-time transcription, LLaMA 2.5 for auto-generated quizzes, and includes an AI chatbot for doubt solving. With progress tracking and a modern Flask + Next.js stack, EduTrack makes self-paced learning smarter and more engaging.

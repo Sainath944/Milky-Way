@@ -1,19 +1,19 @@
 ---
-title: 'Project 4'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Reverse proxy in go'
+description: 'Made a reverse proxy server using go for detecting some ddos attacks'
 image:
-    url: '/GitHub.webp'
+    url: '/image11.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/image10.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/image12.png'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Go
+website: https://github.com/sainath944/ReverseProxy
+github: https://github.com/sainath944/ReverseProxy
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Made a reverse proxy server to detect the ddos attacks by implementing the following features like the rate limiting, ip blacklisting, pattern detection, payload protection.its a basic go project.

@@ -1,19 +1,19 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Kepler-Exoplanet-Detection'
+description: 'A machine learning model which works on keplers data to predict a exoplanet'
 image:
-    url: '/GitHub.webp'
+    url: '/image4.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/image5.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/image6.png'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+platform: Machine Learning
+stack: Python, Machine Learning 
+website: https://github.com/sainath944/Kepler/Exoplanet-ml
+github: https://github.com/sainath944/Kepler/Exoplanet-ml
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+This project analyzes Kepler Space Telescope data to classify potential exoplanets as either confirmed planets or false positives. While Kepler's mission ended in 2019, its dataset remains one of the most comprehensive resources for exoplanet research.
